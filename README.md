@@ -1,4 +1,4 @@
-# react2coderstest App
+# REACT2CODERSTEST APP
 ## Introduction
 
 This is a **Reactjs Application** built with a paginated list of the most popular movies as its main screen and a secondary one that shows more data about a selected item. It looks like this:
@@ -18,4 +18,4 @@ This is a **Reactjs Application** built with a paginated list of the most popula
 - CSS using SASS (in a simple way)
 - Packages installed apart the necessary for the previous functionalities:
 	- Bootstrap (for responsive behaviour)
-	- Moment (for date management).
+	- Moment (for date management)
