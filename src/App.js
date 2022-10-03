@@ -1,7 +1,7 @@
 import React, { useState, useEffect, Fragment } from 'react';
 import { Routes, Route, Link } from "react-router-dom"
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './App.css';
+import './App.scss';
 import MovieList from './components/MovieList';
 import MovieListHeading from './components/MovieListHeading';
 import MovieDetails from './components/MovieDetails';
