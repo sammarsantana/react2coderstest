@@ -3,11 +3,11 @@
 
 This is a **Reactjs Application** built with a paginated list of the most popular movies as its main screen and a secondary one that shows more data about a selected item. It looks like this:
 
-![Movie List](https://github.com/sammarsantana/react2coderstest/blob/main/movie_list_1.png/raw=true)
+![Movie List](https://github.com/sammarsantana/react2coderstest/blob/main/public/movie_list_1.png/raw=true)
 
-![Movie List](https://github.com/sammarsantana/react2coderstest/blob/main/movie_list_2.png/raw=true)
+![Movie List](https://github.com/sammarsantana/react2coderstest/blob/main/public/movie_list_2.png/raw=true)
 
-![Movie List](https://github.com/sammarsantana/react2coderstest/blob/main/movie_detail.png/raw=true)
+![Movie List](https://github.com/sammarsantana/react2coderstest/blob/main/public/movie_detail.png/raw=true)
 
 ## Technical Details
 
